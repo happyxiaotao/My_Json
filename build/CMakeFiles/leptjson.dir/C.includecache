@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tao/github/My_Json/leptjson.c
+leptjson.h
+/home/tao/github/My_Json/leptjson.h
+
+/home/tao/github/My_Json/leptjson.h
+
